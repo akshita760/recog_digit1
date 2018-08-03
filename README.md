@@ -1,1 +1,1 @@
-# recog_digit1
+# project1
